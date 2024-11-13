@@ -4,3 +4,5 @@ resource "aws_vpc" "vpc1" {
     Name = "vpc from cli to HCPcloud"
   }
 }
+
+# Newly added lines by Sandip
